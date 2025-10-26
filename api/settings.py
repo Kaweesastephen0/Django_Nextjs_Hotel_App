@@ -30,7 +30,8 @@ SECRET_KEY = 'django-insecure-nu+g7%0fqvlrjxaa%7qa!@-mnkk(^5h%lc3#jaqu@=g3^@h@fp
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'django-nextjs-project-frmn.onrender.com'
+    'django-nextjs-project-frmn.onrender.com',
+    'hotel-backend-vf59.onrender.com'
 ]
 
 
