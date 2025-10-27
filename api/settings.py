@@ -155,6 +155,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://172.24.144.1:3001',
     'http://192.168.182.64:3000',
+    'https://django-frontend-sigma.vercel.app',
 
 ]
 
