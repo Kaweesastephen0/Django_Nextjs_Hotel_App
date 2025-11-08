@@ -3,7 +3,7 @@
 A full stack Django and nextjs hotel booking web app
 
 Preview
-![Demo](https://django-frontend-sigma.vercel.app)
+[Demo](https://django-frontend-sigma.vercel.app)
 
 ```bash
 # Backend setup
