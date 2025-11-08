@@ -1,0 +1,74 @@
+.roomDetailsPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.roomDetailsContainer {
+  width: 100%;
+  max-width: 1024px;
+  padding: 20px;
+}
+
+.roomHeader {
+  margin-bottom: 20px;
+}
+
+.roomTitle {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.roomNumber {
+  color: gray;
+}
+
+.roomImages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.roomImage {
+  width: 250px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.roomInfoSection {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.statusAvailable {
+  color: green;
+  font-weight: 600;
+}
+
+.statusUnavailable {
+  color: red;
+  font-weight: 600;
+}
+
+.roomActions {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.bookNowBtn {
+  background-color: #0071c2;
+  color: white;
+  padding: 12px 25px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.bookNowBtn.disabled {
+  background-color: gray;
+  cursor: not-allowed;
+}

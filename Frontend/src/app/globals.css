@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.homeContainer{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.homeTitle{
+  width: 100%;
+  max-width: 1024px;
+  font-size: 20px;
+  text-align: left;
+  font-weight: 600;
+}
+
+@media (max-width: 600px) {
+  .homeTitle {
+    font-size: 18px;
+    padding: 0 16px;
+  }
+}

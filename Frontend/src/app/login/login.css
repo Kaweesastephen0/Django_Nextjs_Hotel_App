@@ -1,0 +1,16 @@
+
+.hero-bg{
+	position: relative;
+}
+.hero-bg > .relative{
+	position: relative;
+	z-index: 10;
+}
+
+
+@media (max-width: 768px){
+	.hero-bg > .absolute{
+		background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55));
+	}
+}
+
