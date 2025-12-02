@@ -45,14 +45,13 @@ admin1@test.com
 
 ## The following are the Improvements that are being worked on
 
-1. Changing the <img> to nextjs <Image>
-2. still improving form validation.
-3. Switching from sqlite to mysql server.
-4. Adding a profile page for one to manage their booking and user-info.
-5. Email confirmation message for registration.
-6. Making improvements in loading States.
-7. Responsiveness since now the app is for desktop view
-8. And overoll code organization .
+1. still improving form validation.
+2. Switching from sqlite to mysql server.
+3. Adding a profile page for one to manage their booking and user-info.
+4. Email confirmation message for registration.
+5. Making improvements in loading States.
+6. Responsiveness since now the app is for desktop view
+7. And overall code organization .
 
 # For any improments or issue identified please reachout at
 
